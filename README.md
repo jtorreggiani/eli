@@ -32,5 +32,5 @@ mix escript.build
 Run command
 
 ```
-./simple_repl
+./eli
 ```
